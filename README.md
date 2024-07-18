@@ -1,4 +1,5 @@
 # Othello program in Python
+<img src="https://github.com/user-attachments/assets/a2921229-e799-41a8-9f86-563be3f96d39" width="90%"/>
 
 This repo contains a simple Othello program written in Python. 
 <br/>
