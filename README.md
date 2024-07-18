@@ -1,5 +1,7 @@
-# Othello program in python
+# Othello program in Python
 
-This repo contains a simple Othello program written in Python. I wrote this program for a project in CSCI1913: Introduction to Algorithms, Data Structures, and Program Development at the University of Minnesota.
-It is the __first__ ever "project" that I wrote during my coding and computer science career!
+This repo contains a simple Othello program written in Python. <br/>
+I wrote this program for a project in CSCI1913: Introduction to Algorithms, Data Structures, and Program Development at the University of Minnesota.
+It is the __first project__ that I wrote during my coding and computer science career! At the time, this felt daunting and crazy difficult. 
+It is really fun to see how much I improved throughout my career!
 
